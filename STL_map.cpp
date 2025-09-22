@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-   // SORTED KEYS
+   // SORTED UNIQUE KEYS
 
    map<int, int> mpp;
    map<int, pair<int, int>> mpp2;
