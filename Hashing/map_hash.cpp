@@ -15,9 +15,9 @@ int main(){
     }
     
 
-    for(auto it : mpp){
-        cout<<it.first << "->" << it.second << endl;
-    }
+    // for(auto it : mpp){
+    //     cout<<it.first << "->" << it.second << endl;
+    // }
     
 
     // fetch query
