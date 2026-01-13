@@ -29,4 +29,4 @@ int longestSuccessiveElements(vector<int>&a) {
     return longest;
 }
 
-// {3N, N} under the assumption that unordered_set operations are O(1) on average, space complexity assuming all elements are unique
+// {3N, N}}} under the assumption that unordered_set operations are O(1) on average, space complexity assuming all elements are unique
