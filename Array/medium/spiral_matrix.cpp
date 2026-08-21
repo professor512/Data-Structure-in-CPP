@@ -1,4 +1,4 @@
-// https://www.naukri.com/code360/problems/spiral-matrix_840698?leftPanelTabValue=PROBLEM
+// https://www.naukri.com/code360/problems/spiral-matrix_840698?leftPanelTabValue=PROBLEM as
 
 #include <bits/stdc++.h> 
 vector<int> spiralPathMatrix(vector<vector<int>> matrix, int n, int m) 
